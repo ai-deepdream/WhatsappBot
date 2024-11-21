@@ -1,0 +1,61 @@
+RewriteEngine on
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+#RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+#RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+
+
+
+#AddDefaultCharset utf-8
+#php_value default_charset "UTF-8"
+
+<IfModule mod_rewrite.c>
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>
+
+ErrorDocument 404 /index.php
+ErrorDocument 403 /index.php
+Options All -Indexes
+
+<files ".htaccess">
+order allow,deny
+deny from all
+</files>
+
+#جلوگیری از دسترسی مستقیم به فایل‌های PHP
+<Files ~ "\.php$">
+Order allow,deny
+Deny from all
+</Files>
+<Files "index.php">
+Order allow,deny
+allow from all
+</Files>
+AddType file/zip .sqlh
+# جلوگیری از دانلود فایل‌های بکاپ
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^(.*)setting/db/ [NC]
+RewriteRule ^backup-database/([^/]+)\.sqlh$ - [F]
+
+php_value upload_max_filesize 1024M
+php_value post_max_size 1024M
+
+#LoadFile "C:/xampp-old/php/php8ts.dll"
+#LoadFile "C:/xampp-old/php/libpq.dll"
+#LoadFile "C:/xampp-old/php/libsqlite3.dll"
+#LoadModule php_module "C:/xampp-old/php/php8apache2_4.dll"
+
+#<IfModule php_module>
+#    PHPINIDir "C:/xampp-old/php"
+#</IfModule>
+<FilesMatch "\.php$">
+    SetHandler application/x-httpd-php
+</FilesMatch>
+<IfModule mime_module>
+  AddHandler application/x-httpd-php .php .php8 .phtml
+</IfModule>

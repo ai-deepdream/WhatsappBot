@@ -1,0 +1,16 @@
+https://my.miladlab.ir:8084/
+Service1.asmx/
+Web_ResultReport_AllInOneBase64PDF_WithSQLDbID_Json?
+UserName=AngularWeb&
+Password=bch%2FYnalIfvI5wgvqBSRIPh3htzofviZS3ccf0mjwm5FBDYMvIhQDxdfPkqCH2Ni&
+SQLDbID=16&
+AdmitID=67389&
+app=1&
+_IncludeInCompletePatient=true&
+_IncludePrintedPatient=true&
+_IncludedNotConfirmedPatient=true&
+_MyCaller=0&
+_WithoutPayLimitCheck=false&
+_CheckInterview=true&
+_requester=0&
+_SourceLogRemoteDelivery=3

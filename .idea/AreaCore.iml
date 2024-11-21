@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/class" isTestSource="false" packagePrefix="PHPMailer" />
+      <sourceFolder url="file://$MODULE_DIR$/class/FPDI-2.4.1/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/class/PHPMailer" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/baileys-api-master" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/setasign/fpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/czproject/pdf-rotate" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/setasign/fpdi" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/setasign/fpdi-fpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tecnickcom/tcpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mpdf/mpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mpdf/psr-log-aware-trait" />
+      <excludeFolder url="file://$MODULE_DIR$/class/PDFRotate/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/class/PDFRotate/vendor/czproject/pdf-rotate" />
+      <excludeFolder url="file://$MODULE_DIR$/class/PDFRotate/vendor/setasign/fpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/class/PDFRotate/vendor/setasign/fpdi" />
+      <excludeFolder url="file://$MODULE_DIR$/class/PDFRotate/vendor/setasign/fpdi-fpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/view/user-bill2/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/view/user-bill2/vendor/czproject/pdf-rotate" />
+      <excludeFolder url="file://$MODULE_DIR$/view/user-bill2/vendor/setasign/fpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/view/user-bill2/vendor/setasign/fpdi" />
+      <excludeFolder url="file://$MODULE_DIR$/view/user-bill2/vendor/setasign/fpdi-fpdf" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (cov-whatsappBot)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

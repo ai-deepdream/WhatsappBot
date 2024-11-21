@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin
+Disallow: /admin
+Disallow: /admin-login
+Disallow: /admin-forget
+Disallow: /model
+Disallow: /404
+Disallow: /403
+Sitemap:

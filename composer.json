@@ -1,0 +1,9 @@
+{
+    "require": {
+        "czproject/pdf-rotate": "^2.0",
+        "tecnickcom/tcpdf": "^6.6",
+        "mpdf/mpdf": "^8.1",
+        "setasign/fpdi": "^2.4",
+      "ext-curl": "*"
+    }
+}

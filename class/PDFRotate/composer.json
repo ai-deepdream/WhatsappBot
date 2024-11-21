@@ -1,0 +1,5 @@
+{
+    "require": {
+        "czproject/pdf-rotate": "^2.0"
+    }
+}

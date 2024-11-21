@@ -1,0 +1,2953 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>خليل اله - جهانيان</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15764</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>40</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15764</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:22:45</Str_AdmitTime>
+    <Int_NationalCode>1287201441</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>1</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محمد - عطاري پوراصفهاني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15766</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>37</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15766</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:25:27</Str_AdmitTime>
+    <Int_NationalCode>1288455151</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>2</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محمدسعيد - غويثي اصل</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15767</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>32</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15767</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:25:57</Str_AdmitTime>
+    <Int_NationalCode>1740126300</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>3</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>اصغر - طالبي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15768</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>42</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15768</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:27:45</Str_AdmitTime>
+    <Int_NationalCode>1285992113</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>4</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>حسن - بديعي گورتي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15769</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>68</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15769</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:28:11</Str_AdmitTime>
+    <Int_NationalCode>1291673199</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>5</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>مصطفي - صفري دهقي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15770</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>37</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15770</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:28:38</Str_AdmitTime>
+    <Int_NationalCode>1287384234</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>6</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>مهدي - سلماني باصري</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15772</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>26</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15772</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:30:06</Str_AdmitTime>
+    <Int_NationalCode>1272269825</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>7</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محسن - سلماني باصيري</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15775</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>28</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15775</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:36:32</Str_AdmitTime>
+    <Int_NationalCode>1271601397</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>8</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>ايمان - کاوياني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15776</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>27</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15776</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:36:57</Str_AdmitTime>
+    <Int_NationalCode>6330033331</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>9</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>مجتبي - سرلک</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15777</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>47</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15777</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:37:27</Str_AdmitTime>
+    <Int_NationalCode>4172647383</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>10</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محمدرضا - لله گاني دزکي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15778</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>33</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15778</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:38:00</Str_AdmitTime>
+    <Int_NationalCode>1270244663</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>11</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>يونس - زماني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15779</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>17</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15779</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:38:26</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>12</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>علي - جوادي اسدآبادي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15780</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>33</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15780</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:38:50</Str_AdmitTime>
+    <Int_NationalCode>5419884811</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>13</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>مهرداد - کمالي خرمي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15781</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>38</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15781</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:39:19</Str_AdmitTime>
+    <Int_NationalCode>1287335845</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>14</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>حجت الله - مهدور</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15782</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>36</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15782</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:39:46</Str_AdmitTime>
+    <Int_NationalCode>4172719600</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>15</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محمدعلي - شاخه</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15783</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>31</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15783</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:40:17</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>16</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>مسعود - نايبي دهقي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15784</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>36</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15784</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:40:43</Str_AdmitTime>
+    <Int_NationalCode>1292582537</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>17</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>ميثم - حاجي خياداني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15785</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>27</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15785</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:41:23</Str_AdmitTime>
+    <Int_NationalCode>1271725533</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>18</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>آرش - براتي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15786</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>24</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15786</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:42:15</Str_AdmitTime>
+    <Int_NationalCode>1272837408</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>19</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>اصغر - چلمقاني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15787</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>45</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15787</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:42:44</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>20</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>حميد - مهدور</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15788</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>30</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15788</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:43:10</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>21</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>رسول - قائمي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15789</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>40</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15789</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:43:41</Str_AdmitTime>
+    <Int_NationalCode>4231826919</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>22</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>امير - بابادي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15790</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>34</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15790</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:44:04</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>23</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>رضا - رستمي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15791</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>42</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15791</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:44:32</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>24</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>ابوالفضل - استکي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15792</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>16</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15792</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:45:08</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>25</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محبوبه - ناظمي قلعه عبدالهي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15793</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>27</Int_Age>
+    <Int_Sex>0</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15793</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:45:39</Str_AdmitTime>
+    <Int_NationalCode>5650051712</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>26</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>سميه - کنعاني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15794</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>39</Int_Age>
+    <Int_Sex>0</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15794</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:46:14</Str_AdmitTime>
+    <Int_NationalCode>5659641016</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>27</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>علي - عطاري پوراصفهاني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15795</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>38</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15795</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:47:11</Str_AdmitTime>
+    <Int_NationalCode>1288371659</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>28</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>عليرضا - آقاجاني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15796</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>35</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15796</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:49:35</Str_AdmitTime>
+    <Int_NationalCode>5659954642</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>29</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>رضا - صفائي زاده</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15798</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>17</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15798</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:50:29</Str_AdmitTime>
+    <Int_NationalCode>1274695643</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>30</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>اباالفضل - استکي اورگاني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15799</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>17</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15799</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:51:32</Str_AdmitTime>
+    <Int_NationalCode>1274474086</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>31</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>مهرداد - حاجي حسني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15800</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>31</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15800</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:52:33</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>32</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>کاظم - سلماني باصيري</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15801</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>37</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15801</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:53:07</Str_AdmitTime>
+    <Int_NationalCode>1291932011</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>33</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>حسين - مقدم</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15803</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>42</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15803</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:53:52</Str_AdmitTime>
+    <Int_NationalCode>1284969746</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>34</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>اسد - پاخيزه</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15804</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>38</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15804</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:54:27</Str_AdmitTime>
+    <Int_NationalCode>4231839468</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>35</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>عارف - نوروزي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15806</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>28</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15806</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:54:54</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>36</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>حسين - دارم</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15807</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>35</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15807</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:55:18</Str_AdmitTime>
+    <Int_NationalCode>2411549202</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>37</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>علي - بهمني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15808</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>37</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15808</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:55:50</Str_AdmitTime>
+    <Int_NationalCode>5649737126</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>38</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>مهرداد - قرباني</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15809</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>33</Int_Age>
+    <Int_Sex>0</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15809</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:56:13</Str_AdmitTime>
+    <Int_NationalCode />
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>39</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محمدرضا - استکي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15810</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>43</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15810</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:56:40</Str_AdmitTime>
+    <Int_NationalCode>5759342320</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>40</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>سيدجلال - سيدجعفري</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15811</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>27</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15811</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:57:06</Str_AdmitTime>
+    <Int_NationalCode>1271809893</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>41</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>سجاد - رمضاني دستنائي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15812</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>27</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15812</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:57:37</Str_AdmitTime>
+    <Int_NationalCode>1271816431</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>42</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>موسي - ياسري</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15813</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>36</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15813</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:58:05</Str_AdmitTime>
+    <Int_NationalCode>1293521000</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>43</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>حسين - پاخيره</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15815</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>40</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15815</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>10:59:10</Str_AdmitTime>
+    <Int_NationalCode>4231090130</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>44</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>حميد - حميدي خواه</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15816</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>38</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15816</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>11:00:03</Str_AdmitTime>
+    <Int_NationalCode>4231839451</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>45</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>آرش - مهدورموگوئي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15817</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>27</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15817</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>11:00:32</Str_AdmitTime>
+    <Int_NationalCode>1271848031</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>46</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>يعقوب - مهدور</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15818</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>28</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15818</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>11:00:59</Str_AdmitTime>
+    <Int_NationalCode>4160323677</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>47</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>سيدآرش - شفيعي کهنگي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15820</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber />
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>29</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15820</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>11:04:14</Str_AdmitTime>
+    <Int_NationalCode>1271300125</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum xml:space="preserve"> </Str_OderPlacer_AdmitNum>
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>48</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>زهرا - آيتي سجزي</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15821</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber />
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>31</Int_Age>
+    <Int_Sex>0</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15821</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>11:05:26</Str_AdmitTime>
+    <Int_NationalCode>5650001340</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum xml:space="preserve"> </Str_OderPlacer_AdmitNum>
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>49</RowId>
+  </OrganizationReport>
+  <OrganizationReport>
+    <app>1</app>
+    <Int_CostIndexContractorInsuranceIndependant>1</Int_CostIndexContractorInsuranceIndependant>
+    <Str_FLName>محمود - پاخيره</Str_FLName>
+    <Str_FLNameDoc />
+    <PRK_Doctors />
+    <PRK_AdmitPatient>15840</PRK_AdmitPatient>
+    <Int_Discount>0</Int_Discount>
+    <Str_PreScriptionDate />
+    <Str_PatientInsuraceNumber>0</Str_PatientInsuraceNumber>
+    <Str_InsurancePageNum />
+    <Str_AdmitDate>1401/03/03</Str_AdmitDate>
+    <ParentNum>0</ParentNum>
+    <TotalCharge>0</TotalCharge>
+    <InsuranceShare>0</InsuranceShare>
+    <AdmitPatientShare>0</AdmitPatientShare>
+    <OwesMoney>0</OwesMoney>
+    <PatientExtraExpence>0</PatientExtraExpence>
+    <SerialNum />
+    <Prk_Insurances>1846</Prk_Insurances>
+    <Int_PercentDiscountCost>0</Int_PercentDiscountCost>
+    <PatientShare>0</PatientShare>
+    <Int_PatientPaidMoney>0.0000</Int_PatientPaidMoney>
+    <Str_InsuranceName>سپهرزرين T-Si</Str_InsuranceName>
+    <CountAdmit>0</CountAdmit>
+    <ExtraCharge>0</ExtraCharge>
+    <Int_PatientWorkInProgressState>9</Int_PatientWorkInProgressState>
+    <Frk_Insurances>0</Frk_Insurances>
+    <Frk_Contractors>1846</Frk_Contractors>
+    <Str_InsuranceExpireDate />
+    <Int_TotalAdmitValue>844200</Int_TotalAdmitValue>
+    <Int_TotalOrganizationValue>293000</Int_TotalOrganizationValue>
+    <Int_OrganizationShare>293000</Int_OrganizationShare>
+    <Int_PatientShare>0</Int_PatientShare>
+    <Int_PatientNonOrganizationCharges>0</Int_PatientNonOrganizationCharges>
+    <Int_TotalPatientCharges>0</Int_TotalPatientCharges>
+    <Int_TotalDiscountValue>0</Int_TotalDiscountValue>
+    <Int_TotalPatientPayment>0</Int_TotalPatientPayment>
+    <TInt_PercentDiscountOnTotalPatientCharges>0</TInt_PercentDiscountOnTotalPatientCharges>
+    <TInt_PriceVersion>0</TInt_PriceVersion>
+    <Int_LastReminder>0</Int_LastReminder>
+    <Int_Age>27</Int_Age>
+    <Int_Sex>1</Int_Sex>
+    <Frk_Ratever>100</Frk_Ratever>
+    <Str_AllTest>ALT (SGPT) (50000) CBC(EDTA) (57000) Cho (37000) Cr (37000) FBG (32000) TG (45001) U/A (35000) </Str_AllTest>
+    <Str_AdmitPatient>15840</Str_AdmitPatient>
+    <Int_PatientTotalCharges_TotalOrganizationValue>293000</Int_PatientTotalCharges_TotalOrganizationValue>
+    <Str_InsuranceFileName />
+    <Str_AdmitTime>11:56:02</Str_AdmitTime>
+    <Int_NationalCode>4220464077</Int_NationalCode>
+    <Int_IsCandid>0</Int_IsCandid>
+    <Str_OderPlacer_AdmitNum />
+    <Int_InsOnlineAdmitState>0</Int_InsOnlineAdmitState>
+    <Str_InsTrsID />
+    <Cal_Bonus>0</Cal_Bonus>
+    <Bit_UseCumulativeMethodForBonus>true</Bit_UseCumulativeMethodForBonus>
+    <AlternativeApp>0</AlternativeApp>
+    <RowId>50</RowId>
+  </OrganizationReport>
+</DocumentElement>
